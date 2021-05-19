@@ -1,0 +1,15 @@
+{
+  "name": "twitter-verified-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "author": "ogohogo",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "twit": "^2.2.11"
+  }
+}
